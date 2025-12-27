@@ -1,4 +1,0 @@
-# JavaScript
-Index of JavaScript-related course certificates (PDFs)
-
-1. [2025 - JavaScript esencial (LinkedIn)](../../All/2025.JavaScript%20esencial.LinkedIn.pdf)

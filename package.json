@@ -1,0 +1,25 @@
+{
+  "name": "courses",
+  "version": "1.0.0",
+  "description": "A personal collection of programming course certificates (PDFs).",
+  "homepage": "https://github.com/martin-pedraza/Courses#readme",
+  "bugs": {
+    "url": "https://github.com/martin-pedraza/Courses/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martin-pedraza/Courses.git"
+  },
+  "license": "MIT",
+  "author": "martin-pedraza",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "marked": "^17.0.1"
+  }
+}

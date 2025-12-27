@@ -2,7 +2,7 @@
 A personal collection of programming course certificates (PDFs).
 
 ## Project structure 🔧
-- `All/` — Contains the original PDF certificates.
-- `By-Skill/` — Indexes grouped by skill
-- `By-Provider/` — Indexes grouped by provider
-- `By-Year/` — Certificates grouped by year.
+- [`All/`](./All/All.md) — Contains the original PDF certificates.
+- [`By-Provider/`](./By-Provider/Provider.md) — Indexes grouped by provider 
+- [`By-Skill/`](./By-Skill/Skill.md) — Indexes grouped by skill
+- [`By-Year/`](./By-Year/Year.md) — Certificates grouped by year.
