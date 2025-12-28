@@ -31,6 +31,7 @@ export function wrapHtml(content, title = 'Markdown') {
             </head>
             <body>
                 <nav>
+                    <a href="/">Home</a>
                     <a href="/All/All.md">All</a>
                     <a href="/By-Provider/Provider.md">By-Provider</a>
                     <a href="/By-Skill/Skill.md">By-Skill</a>
